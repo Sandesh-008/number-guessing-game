@@ -1,10 +1,10 @@
 ## Number Guessing Game - Python CLI Project
 
-This is a simple **Number Guessing Game** built in Python. The computer randomly selects a number between 1 and 100, and the player has to guess it in the least number of tries!
+This is a simple **Number Guessing Game** built in Python. The computer randomly selects a number between 1 to 10,1 to 100,1 to 1000 according to the level selected by the player and the player has to guess it in the least number of tries!
 
 ## Features
 - Random number generation
-- Feedback on each guess: Too High / Too Low / Correct!
+- Feedback on each guess: Too Large Number / Too Small Number / Correct!
 - Tracks number of attempts
 - Option to play again
 
